@@ -17,7 +17,7 @@ Současně platí, že toto je pouze jedno z možných řešení a pokud máš j
 
 ## Kahoot
 
-* [kahoot_2022_09_26](souborykahoot_2022_09_26.md)
+* [kahoot_2022_09_26](kahoot_2022_09_26.md)
 
 ## Pracovní skupiny
 
