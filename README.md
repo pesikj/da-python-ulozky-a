@@ -15,6 +15,10 @@ Současně platí, že toto je pouze jedno z možných řešení a pokud máš j
 
 * [Podmínky a cyklus FOR](podminky_cykly_lekce.md)
 
+## Kahoot
+
+* [kahoot_2022_09_26](souborykahoot_2022_09_26.md)
+
 ## Pracovní skupiny
 
 *Zde zatím nic není :-)*
