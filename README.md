@@ -10,6 +10,7 @@ Současně platí, že toto je pouze jedno z možných řešení a pokud máš j
 * [Práce s textem, chroustání seznamů](prace-s-textem-chroustani.md)
 * [První programy](prvni-programy.md)
 * [Soubory: čtení a zápis](soubory.md)
+* [Podmínky a cykly](podminky-cykly.md)
 
 ## Řešení příkladů z lekcí
 
