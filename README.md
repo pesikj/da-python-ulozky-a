@@ -22,4 +22,4 @@ Současně platí, že toto je pouze jedno z možných řešení a pokud máš j
 
 ## Pracovní skupiny
 
-*Zde zatím nic není :-)*
+Příklady z pracovních skupin jsou na [samostatné stránce](https://github.com/pesikj/da-pracovni-skupiny).
