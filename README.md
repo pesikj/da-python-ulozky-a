@@ -15,6 +15,7 @@ Současně platí, že toto je pouze jedno z možných řešení a pokud máš j
 ## Řešení příkladů z lekcí
 
 * [Podmínky a cyklus FOR](podminky_cykly_lekce.md)
+* [Slovníky a JSON](slovniky-json-lekce.md)
 
 ## Kahoot
 
